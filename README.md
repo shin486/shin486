@@ -82,26 +82,3 @@ motto: "Transforming complex workflows into secure, high-performance digital sol
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin486&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="150" />
 
 </div>
-
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-  <!-- GitHub Contribution Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shin486/shin486/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shin486/shin486/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/shin486/shin486/output/github-snake-dark.svg" width="100%">
-  </picture>
-</div>
-
----
-
-<div align="center">
-
-  <!-- Profile Views Counter Badge -->
-  <img src="https://komarev.com/ghpvc/?username=shin486&label=PROFILE+VIEWS&style=for-the-badge&color=00d2ff" alt="Profile View Counter" />
-
-</div>
-```
