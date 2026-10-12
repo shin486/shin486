@@ -101,10 +101,7 @@ motto: "Transforming complex workflows into secure, high-performance digital sol
 <div align="center">
 
   <!-- Profile Views Counter Badge -->
-  <img src="https://komarev.com/ghpvc/?username=shin486&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile View Counter" />
-
-  <br/><br/>
- 
+  <img src="https://komarev.com/ghpvc/?username=shin486&label=PROFILE+VIEWS&style=for-the-badge&color=00d2ff" alt="Profile View Counter" />
 
 </div>
 ```
