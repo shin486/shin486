@@ -1,24 +1,9 @@
-That confirms it! Two things are happening right there:
-
-1. **The YAML box is not closed**: Notice how it starts with ```` ```yaml ````, but after the `motto:` line, there are no closing ```` ``` ```` (three backticks). Because it's open, GitHub thinks everything below it is still inside the gray code box!
-2. **The rest of the file is missing**: The Tech Stack icons, stats cards, and snake were never pasted.
-
----
-
-### The Fix
-
-Go to your `README.md` editor, delete everything inside it, and paste this exact text:
-
 <div align="center">
 
-  <!-- Animated Typing Banner -->
+  <!-- Glowing Cyberpunk Neon Banner -->
   <a href="https://github.com/shin486">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1200&color=61AFEF&center=true&vCenter=true&multiline=false&width=620&height=55&lines=Hi+there+%F0%9F%91%8B+I'm+Richard+Allen+Liman+(Shin);Full-Stack+%26+Mobile+Developer;Building+Secure+Node.js+%26+React+Applications" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=620&height=55&lines=%E2%9A%A1+SHIN+%E2%9A%A1;Full-Stack+%26+Mobile+Developer;Building+Secure+Node.js+%26+React+Apps;Senior+BSIT+%40+De+La+Salle+Lipa" alt="Cyberpunk Neon Banner" />
   </a>
-
-  <p align="center">
-    <b>🎓 4th-Year BSIT Student @ De La Salle Lipa &bull; Full-Stack Craftsman &bull; Mobile App Developer</b>
-  </p>
 
   <!-- Quick Action Badges -->
   <p align="center">
@@ -119,10 +104,7 @@ motto: "Transforming complex workflows into secure, high-performance digital sol
   <img src="https://komarev.com/ghpvc/?username=shin486&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile View Counter" />
 
   <br/><br/>
-  <sub><i>Crafted with passion & modern code aesthetics by Richard Allen Liman (Shin) 🚀</i></sub>
+ 
 
 </div>
-
----
-
-Once you paste this, click the **Preview** tab in GitHub — all the tech icons, widgets, and cards will render directly!
+```
